@@ -1,0 +1,14 @@
+ERICSSON
+Bees are vital for our survival as honeybee pollination is vital for about 70% of all crops used for
+food. Even if there are almost 100 million beehives worldwide which increases steadily each year,
+the bee populations are dying. Some reasons are parasites, diseases, poor nutrition, or pesticides.
+Some reasons are simply unknown. Beekeepers need both better tools & knowledge to increase the
+survival rate of their bees. Which is one of the reasons we at Ericsson garage decided to start a
+project with connected beehives some years ago. We now have beehives on the roof of our office
+with various sensors to get data such as: climate, hive weight, sound & image.
+
+ER3: Varroa (Parasites). Determine if the bee is carrying any parasites. Dependent on finding open
+data sets. Open data sets with bees with varroa exists, but still to determine if useful. Machine
+learning model for determining bees and bees carrying pollen on photos available for reference.
+Det går bra att kommunicera på Svenska även om utmaningarna är beskrivna på engelska. Håkan har
+data i form av annoterade bilder som han kan ge er.

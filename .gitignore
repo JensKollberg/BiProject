@@ -1,0 +1,5 @@
+datasets/*
+varroa_dataset/*
+kaggle_dataset/*
+images/*
+model.pth

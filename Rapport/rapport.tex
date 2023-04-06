@@ -1,0 +1,41 @@
+\documentclass[a4paper]{article}
+
+\usepackage[swedish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+% \usepackage{hyperref}	
+
+
+\begin{document}
+\pagenumbering{gobble}				% slå av pagenumbering, det vill  vi inte ha på titelbladet
+\title{\textbf{Varroa - Machine learining för identifiering av bin bärande på parasiter}}	
+\author{\textbf{Grupp 3}}				
+\maketitle							% Skapa titelblad enligt uppgifter ovan, notera att \date är överflödigt då det importeras automatiskt
+
+\newpage
+\tableofcontents 		% innehållsförteckning skapas automatiskt
+
+\newpage
+\pagenumbering{arabic}				% sätt pagenumbering till ON med arabiska siffror
+\setcounter{page}{1}					% nollställ pagenumbering (1)
+
+\section{Inledning}
+ \label{sec:inledning}
+
+\section{Teknisk beskrivning}
+\label{sec:teknisk}
+
+\section{Reflektion kopplat till hållbarhet och etik}
+\label{sec:reflektion}
+
+\section{Förbättringar och lärdomar}
+\label{sec:FnL}
+
+
+\newpage
+\raggedright
+\bibliographystyle{plain}	
+\bibliography{refs}		% skapa källförteckning (se referenser.bib)
+
+
+\end{document}
